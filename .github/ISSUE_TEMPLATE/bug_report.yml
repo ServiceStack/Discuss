@@ -2,10 +2,6 @@ name: "\U0001F41E Bug report"
 description: Report an Issue with ServiceStack
 labels: ['bug: pending triage']
 body:
-  - type: markdown
-    attributes:
-      value: |
-        "Thanks for taking the time to fill out this bug report!"
   - type: textarea
     id: bug-description
     attributes:
